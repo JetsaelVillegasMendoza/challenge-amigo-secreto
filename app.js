@@ -37,3 +37,18 @@ function actualizarLista() {
 
     return;
 };
+
+function sortearAmigo() {
+    if (listaAmigos.length === 0) {
+        alert("No hay ningún nombre disponible.")
+    } else {
+        let indiceSorteado = Math.floor(Math.random() * (listaAmigos.length));
+        let nombreSorteado = listaAmigos[indiceSorteado];
+        let nombreMostrado = document.getElementById("resultado");
+        nombreMostrado.innerHTML = nombreSorteado;
+
+        lista.innerHTML = ""; 
+    };
+
+    return;
+};
