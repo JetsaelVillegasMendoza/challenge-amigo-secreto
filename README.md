@@ -1,6 +1,6 @@
 # Challenge: amigo secreto
 
-![portada del proyecto](https://imgur.com/a/6hfMENy)
+![portada del proyecto](https://scontent.fmex22-1.fna.fbcdn.net/v/t39.30808-6/477211135_9180252572050813_1592797819098864102_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=R43BzWJwZCYQ7kNvgEWtVZR&_nc_oc=AdjO4peKaIUJxN11r1-pH2yyHuMdApMDuQ4MfKh9-S-qOQSt6J34X72qCcE4ndBFsAs&_nc_zt=23&_nc_ht=scontent.fmex22-1.fna&_nc_gid=A73ZliTDdlkfNFofmcUQC29&oh=00_AYBT1gvVZ846Qy_EtnBJS77jgiK47FPMamNfUyDOpNNBCw&oe=67B171D7)
 
 ![Static Badge](https://img.shields.io/badge/status-completed-red)
 ![Static Badge](https://img.shields.io/badge/release%20date-february%202025-purple)
@@ -37,7 +37,7 @@ Solamente debes [hacer click aquí](link pendiente).
 
 ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/157757330?v=4" width=115><br><sub>Jetsael Villegas</sub>](https://github.com/JetsaelVillegasMendoza) | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/157757330?v=4" width=115><br><sub>Jetsael Villegas</sub>](https://github.com/JetsaelVillegasMendoza) |
 
 ## Licencia 
 
