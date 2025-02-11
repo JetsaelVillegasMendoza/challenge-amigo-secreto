@@ -37,7 +37,7 @@ Solamente debes [hacer click aquí](link pendiente).
 
 ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/157757330?v=4" width=115><br><sub>Jetsael Villegas</sub>](https://github.com/JetsaelVillegasMendoza) |
+[<img src="https://avatars.githubusercontent.com/u/157757330?v=4" width=115><br><sub>Jetsael Villegas</sub>](https://github.com/JetsaelVillegasMendoza)
 
 ## Licencia 
 
