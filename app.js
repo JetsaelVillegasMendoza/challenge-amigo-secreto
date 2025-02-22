@@ -94,5 +94,4 @@ function reiniciarPrograma(){
 
     listaAmigos = [];
     listaNombresSorteados = [];
-    
-};
+}; 
