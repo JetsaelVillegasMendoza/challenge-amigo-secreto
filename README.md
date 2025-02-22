@@ -22,11 +22,11 @@ Este proyecto es ideal para quienes deseen mejorar su comprensión de los fundam
 
 ## Acceso al proyecto
 
-Para acceder al proyecto, [visita el repositorio](link pendiente). 
+Para acceder al proyecto, [visita el repositorio](https://github.com/JetsaelVillegasMendoza/challenge-amigo-secreto). 
 
 ## Abre y ejecuta el proyecto
 
-Solamente debes [hacer click aquí](link pendiente).
+Solamente debes [hacer click aquí](https://jetsaelvillegasmendoza.github.io/challenge-amigo-secreto/).
 
 ## Tecnologías utilizadas
 
